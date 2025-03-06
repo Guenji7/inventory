@@ -1,0 +1,8 @@
+type = "js"
+name = "inventory"
+main = "server/server.js"
+client-main = "client/client.js"
+client-files = [
+    "client/*",
+    "html/**/*"
+]
